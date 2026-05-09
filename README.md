@@ -10,4 +10,4 @@ as for the pem module, a 100 watt module produces 1 liter of hydrogen per minute
 the combustion engine itself is made of 2 parts, the main body being petg and the end nozzle being made in polycarbonate for better heat management. since 
 the whole engine is 3d printed,its water cooled to avoid turning into a sludge of plastic in like 10 seconds. the cooling system is an open loop system that 
 has the water only pass one cycle before being released to avoid overheating of the plastics. overall, the parts including the water pump for the cooling 
-loop cost from 160-230 euros ( 188-271$ ).
+loop cost from 160-230 euros ( 188-271$ ). ngl, i lowkey cooked with this project on some tony stark type shi.
